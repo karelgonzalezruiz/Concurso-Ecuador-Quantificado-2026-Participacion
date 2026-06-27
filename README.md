@@ -93,13 +93,6 @@ publica en la sección "Canastas Familiares" de cada boletín.
 La cobertura calculada para enero de 2026 (109%) coincide con el 109,48%
 reportado oficialmente por el INEC en el boletín de ese mes.
 
-## Fuentes
-
-- Portal de canastas del INEC: https://www.ecuadorencifras.gob.ec/canasta/
-- Boletines IPC del INEC: https://www.ecuadorencifras.gob.ec/estadisticas/
-- Serie histórica (ANDA): https://anda.inec.gob.ec
-- Enlace al boletín de cada año: columna `url_fuente` del CSV.
-
 ## Pruebas de participación
 
 Requisitos del concurso completados (capturas en la carpeta [`pruebas/`](pruebas/)):
@@ -129,6 +122,13 @@ Formulario completado el 27 de junio de 2026.
 **Requisito 5 — Incluir los datos y pasos para reproducir (repositorio público)**
 
 ![Repositorio en GitHub](pruebas/1_github_repositorio_v2.png)
+
+## Fuentes
+
+- Portal de canastas del INEC: https://www.ecuadorencifras.gob.ec/canasta/
+- Boletines IPC del INEC: https://www.ecuadorencifras.gob.ec/estadisticas/
+- Serie histórica (ANDA): https://anda.inec.gob.ec
+- Enlace al boletín de cada año: columna `url_fuente` del CSV.
 
 ## Licencia y créditos
 
