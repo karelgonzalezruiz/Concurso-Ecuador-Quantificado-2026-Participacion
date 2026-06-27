@@ -128,10 +128,11 @@ Formulario completado el 27 de junio de 2026.
 - Serie histórica (ANDA): https://anda.inec.gob.ec
 - Enlace al boletín de cada año: columna `url_fuente` del CSV.
 
+## Autor
+
+**Karel Lázaro González Ruíz**
+**Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
+
 ## Licencia y créditos
 
 Datos: INEC. Visualización: elaboración propia para Ecuador Quantificado 2026.
-
-## Autor
-
-**Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
