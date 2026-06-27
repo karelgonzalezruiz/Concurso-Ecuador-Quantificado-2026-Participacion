@@ -5,8 +5,6 @@ Visualización reproducible en Python para el concurso **Ecuador Quantificado 20
 con el ingreso familiar mensual del hogar tipo en Ecuador, enero de cada año,
 **2018–2026**, con datos oficiales del INEC.
 
-**Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
-
 ![Gráfico](output/canasta_vs_ingreso.png)
 
 ## Estructura
@@ -133,3 +131,7 @@ Formulario completado el 27 de junio de 2026.
 ## Licencia y créditos
 
 Datos: INEC. Visualización: elaboración propia para Ecuador Quantificado 2026.
+
+## Autor
+
+**Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
