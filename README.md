@@ -128,7 +128,7 @@ Formulario completado el 27 de junio de 2026.
 
 **Requisito 5 — Incluir los datos y pasos para reproducir (repositorio público)**
 
-![Repositorio en GitHub](pruebas/1_github_repositorio.png)
+![Repositorio en GitHub](pruebas/1_github_repositorio_v2.png)
 
 ## Licencia y créditos
 
