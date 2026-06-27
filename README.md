@@ -131,6 +131,7 @@ Formulario completado el 27 de junio de 2026.
 ## Autor
 
 **Karel Lázaro González Ruíz**
+
 **Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
 
 ## Licencia y créditos
