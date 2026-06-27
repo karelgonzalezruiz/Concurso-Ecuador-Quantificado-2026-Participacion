@@ -62,8 +62,7 @@ Archivo: `data/canasta_vs_ingreso.csv`. Una fila por año, columnas:
 | `url_fuente` | enlace directo al boletín oficial para verificar cada cifra |
 
 Todos los valores provienen de los boletines técnicos del IPC del INEC (sección
-"Canastas Familiares", mes de enero). La columna `url_fuente` permite abrir el
-boletín original de cada año y comprobar las cifras.
+"Canastas Familiares", mes de enero). 
 
 | Año | Canasta (USD) | Ingreso (USD) | SBU | Cobertura |
 |----:|----:|----:|----:|----:|
