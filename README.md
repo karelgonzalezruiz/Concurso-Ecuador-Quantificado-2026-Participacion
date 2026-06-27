@@ -110,7 +110,9 @@ Formulario completado el 27 de junio de 2026.
 
 **Requisito 2 — Seguir a @elquantificador y @laboratoriolide en Instagram**
 
-![Post oficial en Instagram](pruebas/5_post_instagram.png)
+![Siguiendo a laboratoriolide en Instagram](pruebas/6_instagram_laboratoriolide.png)
+
+![Siguiendo a elquantificador en Instagram](pruebas/7_instagram_elquantificador.png)
 
 **Requisito 3 — Seguir en una plataforma adicional (X / Twitter)**
 
@@ -121,6 +123,8 @@ Formulario completado el 27 de junio de 2026.
 **Requisito 4 — Dar like y compartir el post oficial del concurso**
 
 ![Like y compartir del post oficial](pruebas/4_like_y_compartir_post.png)
+
+![Post oficial del concurso en Instagram](pruebas/5_post_instagram.png)
 
 **Requisito 5 — Incluir los datos y pasos para reproducir (repositorio público)**
 
