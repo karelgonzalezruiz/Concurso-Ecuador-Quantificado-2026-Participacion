@@ -127,13 +127,16 @@ Formulario completado el 27 de junio de 2026.
 - Serie histórica (ANDA): https://anda.inec.gob.ec
 - Enlace al boletín de cada año: columna `url_fuente` del CSV.
 
-## Autor
+## Autor y afiliación académica
 
-**Karel Lázaro González Ruíz**
-
+**Karel Lázaro González Ruíz**  
 Estudiante de la **Universidad de Especialidades Espíritu Santo (UEES)**
 
+Proyecto desarrollado como participación individual para el concurso **Ecuador Quantificado 2026**.
+
 **Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
+
+> **Nota:** Este proyecto fue desarrollado por mí como participación individual para el concurso Ecuador Quantificado 2026. Mi participación surgió gracias a la difusión académica realizada por la Universidad de Especialidades Espíritu Santo (UEES).
 
 ## Licencia y créditos
 
