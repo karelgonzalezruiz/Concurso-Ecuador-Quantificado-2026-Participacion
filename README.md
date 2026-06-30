@@ -131,6 +131,8 @@ Formulario completado el 27 de junio de 2026.
 
 **Karel Lázaro González Ruíz**
 
+Estudiante de la **Universidad de Especialidades Espíritu Santo (UEES)**
+
 **Repositorio:** https://github.com/karelgonzalezruiz/Concurso-Ecuador-Quantificado-2026-Participacion
 
 ## Licencia y créditos
